@@ -18,6 +18,9 @@ Introduction
 
 It is used on *Github* , *StackOverflow* ... __others like Wikipedia__ 
 
+![alt text](http://svg.tutorial.aptico.de/grafik_svg/dummy3.svg "Logo Title Text 1")
+
+
 [MyBlog](http://aljilogy.blogspot.fr)
 
 
